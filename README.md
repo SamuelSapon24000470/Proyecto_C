@@ -1,6 +1,6 @@
 Codigo de un conversor de monedas
 
-DESCRIPCION
+DESCRIPCION: 
 Este código perimite convertir las siguientes monedas: Quetzal, Euro y Dólar Estadounidense.
 
 
